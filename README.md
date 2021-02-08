@@ -15,6 +15,7 @@ For the front end deliverable we will assess three major areas:
 * Functionality
 
 There are a huge number of features that could be built into an instant messaging app such as emojis, gifs, read recipts and group conversations. However you only have a limited amount of time. Take as much insparation for features as you like form existing chat applications (or invent brand new ones) but not at the expense of code quality or usability. 
+
 A submission that could rival Facebook messenger functionally but is hard to use and difficult for us to understand will score poorly. When we test your app we will run two instances of the app and try to have a conversation with them. 
 For any additional user flows such as group chats, please leave us instructions on how to use them, but hopefully we won't need them.
 
