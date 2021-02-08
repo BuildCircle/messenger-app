@@ -19,4 +19,4 @@ There are a huge number of features that could be built into an instant messagin
 A submission that could rival Facebook messenger functionally but is hard to use and difficult for us to understand will score poorly. When we test your app we will run two instances of the app and try to have a conversation with them. 
 For any additional user flows such as group chats, please leave us instructions on how to use them, but hopefully we won't need them.
 
-After we have tessed the app, there will be a follow call with Chris to review. 
+After we have tessed the app, there will be a follow up call with Chris to review. 
